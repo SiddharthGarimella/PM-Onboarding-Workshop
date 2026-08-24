@@ -1,0 +1,57 @@
+[
+  {
+    "scene_id": "arduino_kit_01",
+    "name": "Arduino Kit",
+    "confidence": 0.95
+  },
+  {
+    "scene_id": "arduino_kit_02",
+    "name": "Arduino Kit",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "hdmi_cable_01",
+    "name": "HDMI Cable",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "rasberry_pi_01",
+    "name": "Raspberry Pi",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "rasberry_pi_03",
+    "name": "Raspberry Pi",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "soldering_station_01",
+    "name": "Soldering Station",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "stm32_01",
+    "name": "STM32 Microcontroller",
+    "confidence": 0.98
+  },
+  {
+    "scene_id": "stm32_02",
+    "name": "STM32 Microcontroller",
+    "confidence": 0.97
+  },
+  {
+    "scene_id": "stm32_03",
+    "name": "STM32 Microcontroller",
+    "confidence": 0.98
+  },
+  {
+    "scene_id": "usb_cable_01",
+    "name": "USB Cable",
+    "confidence": 0.96
+  },
+  {
+    "scene_id": "usb_cable_02",
+    "name": "USB Cable",
+    "confidence": 0.97
+  }
+]
