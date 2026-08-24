@@ -1,0 +1,29 @@
+{
+  "scene_id": "usb_cable_02",
+  "predictions": [
+    {
+      "name": "USB Cable",
+      "confidence": 0.97
+    },
+    {
+      "name": "Arduino Kit",
+      "confidence": 0.01
+    },
+    {
+      "name": "HDMI Cable",
+      "confidence": 0.01
+    },
+    {
+      "name": "Raspberry Pi",
+      "confidence": 0.0
+    },
+    {
+      "name": "STM32 Microcontroller",
+      "confidence": 0.0
+    },
+    {
+      "name": "Soldering Station",
+      "confidence": 0.0
+    }
+  ]
+}
