@@ -2,7 +2,7 @@ const express = require("express");
 const cors = require("cors");
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001; // Render assigns PORT via env var; 3001 is the local fallback
 
 // Middleware
 app.use(cors());        // allows the React app (different port) to call this server
