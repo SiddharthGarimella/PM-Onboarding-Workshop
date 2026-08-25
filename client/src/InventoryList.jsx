@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-const API_URL = "http://localhost:3001/inventory";
+const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:3001";
+const API_URL = `${API_BASE}/inventory`;
 const AUDIT_LOG_URL = "/audit_log.jsonl"; // served from client/public/
 
 function StatusBadge({ status }) {
